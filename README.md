@@ -1,4 +1,6 @@
-### Hi there 👋
+### Greetings!
+I am Damla KARAGOZ, a freshman at Bilkent University. My major is computer science.
+I’m currently learning java and hoping to add marvelous projects on this profile later on. 🤓
 
 <!--
 **ph7oeuf/ph7oeuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
